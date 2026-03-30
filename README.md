@@ -6,7 +6,9 @@
 
 # 🗳️ Kubernetes Voting App
 
-A complete microservices-based voting application running on **Kubernetes (Minikube)**.
+A container‑based, multi‑service voting system deployed on Kubernetes (Minikube).
+Demonstrates core concepts including Pod networking, ClusterIP & NodePort services, label/selector routing, persistent storage with Postgres, message queuing with Redis, and background processing with a Worker service.
+Perfect for learning, teaching, or testing distributed app behaviour in Kubernetes.
 
 ---
 
