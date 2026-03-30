@@ -85,4 +85,12 @@ Votes not updating
 
 ## ✅ Screenshot placeholder
 
-       ./screenshot.png
+   ## 📸 Screenshots
+
+### Voting App
+
+voting-app.png
+
+### Results App
+
+results-app.png
