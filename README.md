@@ -85,8 +85,8 @@ Votes not updating
 
 ## 📸 Screenshots
 
-### Voting App
-![Voting App Screenshot](voting-app.png)
+<img width="841" height="428" alt="image" src="https://github.com/user-attachments/assets/4465f891-6f11-4b65-a579-fa6ff044660a" />
+<img width="856" height="420" alt="image" src="https://github.com/user-attachments/assets/85fdd93e-3830-4502-8561-f614f0c0f590" />
 
-### Results App
-![Results App Screenshot](results-app.png)
+
+
